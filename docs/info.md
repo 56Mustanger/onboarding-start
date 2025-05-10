@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Takes 3 inputs from SPI contoler, stores into 1 of 5 adress and has 16 outputs and can be PWM, 1 or 0 
 
 ## How to test
 
